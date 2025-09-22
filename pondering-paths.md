@@ -202,7 +202,7 @@ cd /challenge
 ```
 pwn.college{wZ6TSAZJwcOj_2VYw3-raARCz4_.QXxUTN0wiN1EzNzEzW}
 ```
-####NOTES
+### NOTES
 Linux doesnt run some files whose names sometimes are same as that of some system programs, therefore to run them we have to implicitly 'tell' linux to run.
 
 # Challenge 9 HOME SWEET HOME
