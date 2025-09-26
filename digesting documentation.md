@@ -113,9 +113,7 @@ GNU coreutils 8.32               February 2022                          YES(1)
 
 Describe your thought process and solve, write as much as possible with steps:
 
-- 
-- 
-- 
+- opened challenge manual to get the argument required for flag 
 
 Use this blob for pasting commands you've run
 ```sh
